@@ -1,0 +1,20 @@
+//full html and css is in scrimba and i have no idea how to import them lol
+//just to practice muscle memory in writing html
+
+<!doctype html> 
+<html>
+  <head></head>
+  <body>
+    <img src ="https://i.pinimg.com/564x/9d/d4/52/9dd45271b020a094a12bfeee12b39f65.jpg"> 
+    <h1> Hi, Kaeliber here! </h1> 
+    <h3>Fun facts about me: </h3>
+    <ul> 
+      <li> I love sleeping, but I dont sleep enough. </li>
+      <li> I read books to cope. </li>
+      <li> I love animals! </li> 
+    </ul>
+    <p>Please connect with me on LinkedIn <a href = "linkedin.html">here</a></p>
+    <input type="text" placeholder="Enter email..."> 
+    <button>Join Newsletter</button>
+  </body>
+</html>
